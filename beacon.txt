@@ -1,0 +1,9 @@
+npm install firebase --tools
+firebase init
+firebase init emulators
+firebase emulators:start
+
+
+
+npm install ngrok
+
